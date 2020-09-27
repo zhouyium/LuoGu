@@ -14,5 +14,6 @@
 | 1328        | 生活大爆炸版石头剪刀布                            |   https://www.luogu.com.cn/problem/P1328   |
 | 1706        | 全排列问题                            |   https://www.luogu.com.cn/problem/P1706   |
 | 1873        | 砍树                            |   https://www.luogu.com.cn/problem/P1873   |
+| 3367        | 【模板】并查集                            |   https://www.luogu.com.cn/problem/P3367   |
 | 6832        | [Cnoi2020]子弦                          |   https://www.luogu.com.cn/problem/P6832   |
 | 6833        | [Cnoi2020]雷雨                            |   https://www.luogu.com.cn/problem/P6833   |
