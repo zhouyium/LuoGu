@@ -8,6 +8,7 @@
 | 1036        | 选数                                |   https://www.luogu.com.cn/problem/P1036    |
 | 1102        | A-B 数对                                  |   https://www.luogu.com.cn/problem/P1102    |
 | 1157        | 组合的输出                            |   https://www.luogu.com.cn/problem/P1157   |
+| 1177        | 【模板】快速排序                            |   https://www.luogu.com.cn/problem/P1177   |
 | 1255        | 数楼梯                            |   https://www.luogu.com.cn/problem/P1255   |
 | 1271        | 【深基9.例1】选举学生会                            |   https://www.luogu.com.cn/problem/P1271   |
 | 1328        | 生活大爆炸版石头剪刀布                            |   https://www.luogu.com.cn/problem/P1328   |
