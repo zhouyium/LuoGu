@@ -6,20 +6,32 @@
 using namespace std;
 
 map<int, int> ds;//并查集
+map<int, int> ranks;
 
 //查找x的父亲
-int find(int x) {
-    return x==ds[x]?x:ds[x]=find(ds[x]);
+int find_root(int x) {
+    return x==ds[x]?x:ds[x]=find_root(ds[x]);
 }
 
 //建立关系
-void judge(int x, int y) {
-    ds[find(x)]=find(y);
+void union_set(int x, int y) {
+    int x_root=find_root(x);
+    int y_root=find_root(y);
+    if (x_root!=y_root) {
+        if (ranks[x_root]>ranks[y_root]) {
+            ds[y_root]=x_root;
+        } else if (ranks[x_root]<ranks[y_root]) {
+            ds[x_root]=y_root;
+        } else {
+            ds[x_root]=y_root;
+            ranks[y_root]++;
+        }
+    }
 }
 
 //查找x和y是否在同一个父亲
 bool relation(int x, int y) {
-    return find(x)==find(y);
+    return find_root(x)==find_root(y);
 }
 
 int main() {
@@ -29,13 +41,14 @@ int main() {
     //初始化并查集
     for (int i=-1*m; i<=n; i++) {
         ds[i]=i;//将父亲设置为自己
+        ranks[i]=0;
     }
 
     //读入关系
     for (int i=1; i<=p+q; i++) {
         int x,y;
         cin>>x>>y;
-        judge(x, y);
+        union_set(x, y);
     }
 
     //查找男生认识小明
