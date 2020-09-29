@@ -19,9 +19,10 @@
 | 1255        | 数楼梯                            |   https://www.luogu.com.cn/problem/P1255   | 递推 |
 | 1271        | 【深基9.例1】选举学生会                            |   https://www.luogu.com.cn/problem/P1271   | 排序 |
 | 1328        | 生活大爆炸版石头剪刀布                            |   https://www.luogu.com.cn/problem/P1328   | 模拟 |
+| 1536        | 村村通                            |   https://www.luogu.com.cn/problem/P1536   | 并查集 |
 | 1551        | 亲戚                            |   https://www.luogu.com.cn/problem/P1551   | 并查集 |
 | 1621        | 集合                            |   https://www.luogu.com.cn/problem/P1621   | 并查集 |
-| 1706        | 全排列问题                            |   https://www.luogu.com.cn/problem/P1706   ||
+| 1706        | 全排列问题                            |   https://www.luogu.com.cn/problem/P1706   | DFS |
 | 1873        | 砍树                            |   https://www.luogu.com.cn/problem/P1873   | 二分查找 |
 | 1923        | 【深基9.例4】求第 k 小的数       |   https://www.luogu.com.cn/problem/P1923   | 排序 |
 | 2078        | 朋友                            |   https://www.luogu.com.cn/problem/P2078   | 并查集 |
