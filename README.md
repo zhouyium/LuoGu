@@ -9,6 +9,7 @@
 | 1059        | 明明的随机数                                |   https://www.luogu.com.cn/problem/P1059    | 排序 |
 | 1093        | 奖学金                                |   https://www.luogu.com.cn/problem/P1093    | 排序 |
 | 1102        | A-B 数对                                  |   https://www.luogu.com.cn/problem/P1102    ||
+| 1116        | 车厢重组                                  |   https://www.luogu.com.cn/problem/P1116    | 排序 |
 | 1157        | 组合的输出                            |   https://www.luogu.com.cn/problem/P1157   ||
 | 1177        | 【模板】快速排序                            |   https://www.luogu.com.cn/problem/P1177   | 排序 |
 | 1255        | 数楼梯                            |   https://www.luogu.com.cn/problem/P1255   | 递推 |
