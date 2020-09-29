@@ -5,6 +5,7 @@
 | 题号        | 题目                                  |  链接                                           |  算法分类 |
 | --------   | -----:                                | :----:                                         | :-----:  |
 | 1002       | 过河卒                         |   https://www.luogu.com.cn/problem/P1002    | 递推 |
+| 1012        | 拼数                                |   https://www.luogu.com.cn/problem/P1012    | 排序 |
 | 1036        | 选数                                |   https://www.luogu.com.cn/problem/P1036    ||
 | 1059        | 明明的随机数                                |   https://www.luogu.com.cn/problem/P1059    | 排序 |
 | 1068        | 分数线划定                                |   https://www.luogu.com.cn/problem/P1068    | 排序 |
