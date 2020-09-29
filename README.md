@@ -25,5 +25,6 @@
 | 2078        | 朋友                            |   https://www.luogu.com.cn/problem/P2078   | 并查集 |
 | 2676        | [USACO07DEC]Bookshelf B                            |   https://www.luogu.com.cn/problem/P2676   | 排序 |
 | 3367        | 【模板】并查集                            |   https://www.luogu.com.cn/problem/P3367   | 并查集  |
+| 5143        | 攀爬者                                  |   https://www.luogu.com.cn/problem/P5143    | 排序 |
 | 6832        | [Cnoi2020]子弦                          |   https://www.luogu.com.cn/problem/P6832   | 贪心 |
 | 6833        | [Cnoi2020]雷雨                            |   https://www.luogu.com.cn/problem/P6833   | BFS |
