@@ -10,6 +10,7 @@
 | 1068        | 分数线划定                                |   https://www.luogu.com.cn/problem/P1068    | 排序 |
 | 1093        | 奖学金                                |   https://www.luogu.com.cn/problem/P1093    | 排序 |
 | 1102        | A-B 数对                                  |   https://www.luogu.com.cn/problem/P1102    ||
+| 1104        | 生日                                |   https://www.luogu.com.cn/problem/P1104    | 排序 |
 | 1116        | 车厢重组                                  |   https://www.luogu.com.cn/problem/P1116    | 排序 |
 | 1152        | 欢乐的跳                                  |   https://www.luogu.com.cn/problem/P1152    | 排序 |
 | 1157        | 组合的输出                            |   https://www.luogu.com.cn/problem/P1157   ||
