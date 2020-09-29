@@ -16,6 +16,8 @@
 | 1621        | 集合                            |   https://www.luogu.com.cn/problem/P1621   | 并查集 |
 | 1706        | 全排列问题                            |   https://www.luogu.com.cn/problem/P1706   ||
 | 1873        | 砍树                            |   https://www.luogu.com.cn/problem/P1873   | 二分查找 |
+www.luogu.com.cn/problem/P1706   ||
+| 1923        | 【深基9.例4】求第 k 小的数       |   https://www.luogu.com.cn/problem/P1923   | 排序 |
 | 2078        | 朋友                            |   https://www.luogu.com.cn/problem/P2078   | 并查集 |
 | 3367        | 【模板】并查集                            |   https://www.luogu.com.cn/problem/P3367   | 并查集  |
 | 6832        | [Cnoi2020]子弦                          |   https://www.luogu.com.cn/problem/P6832   | 贪心 |
