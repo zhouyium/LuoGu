@@ -17,6 +17,7 @@
 | 1152        | 欢乐的跳                                  |   https://www.luogu.com.cn/problem/P1152    | 排序 |
 | 1157        | 组合的输出                            |   https://www.luogu.com.cn/problem/P1157   | DFS |
 | 1177        | 【模板】快速排序                            |   https://www.luogu.com.cn/problem/P1177   | 排序 |
+| 1217        | [USACO1.5]回文质数 Prime Palindromes                            |   https://www.luogu.com.cn/problem/P1217   | 打表 |
 | 1255        | 数楼梯                            |   https://www.luogu.com.cn/problem/P1255   | 递推 |
 | 1271        | 【深基9.例1】选举学生会                            |   https://www.luogu.com.cn/problem/P1271   | 排序 |
 | 1328        | 生活大爆炸版石头剪刀布                            |   https://www.luogu.com.cn/problem/P1328   | 模拟 |
