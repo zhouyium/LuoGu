@@ -9,6 +9,7 @@
 | 1036        | 选数                                |   https://www.luogu.com.cn/problem/P1036    | DFS |
 | 1059        | 明明的随机数                                |   https://www.luogu.com.cn/problem/P1059    | 排序 |
 | 1068        | 分数线划定                                |   https://www.luogu.com.cn/problem/P1068    | 排序 |
+| 1088        | 火星人                                |   https://www.luogu.com.cn/problem/P1088    | 全排列 |
 | 1093        | 奖学金                                |   https://www.luogu.com.cn/problem/P1093    | 排序 |
 | 1102        | A-B 数对                                  |   https://www.luogu.com.cn/problem/P1102    | 排序 |
 | 1104        | 生日                                |   https://www.luogu.com.cn/problem/P1104    | 排序 |
