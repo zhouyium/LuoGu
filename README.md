@@ -14,6 +14,7 @@
 | 1102        | A-B 数对                                  |   https://www.luogu.com.cn/problem/P1102    | 排序 |
 | 1104        | 生日                                |   https://www.luogu.com.cn/problem/P1104    | 排序 |
 | 1116        | 车厢重组                                  |   https://www.luogu.com.cn/problem/P1116    | 排序 |
+| 1149        | 火柴棒等式                                  |   https://www.luogu.com.cn/problem/P1149    | 暴力 |
 | 1152        | 欢乐的跳                                  |   https://www.luogu.com.cn/problem/P1152    | 排序 |
 | 1157        | 组合的输出                            |   https://www.luogu.com.cn/problem/P1157   | DFS |
 | 1177        | 【模板】快速排序                            |   https://www.luogu.com.cn/problem/P1177   | 排序 |
