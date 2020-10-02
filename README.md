@@ -32,6 +32,7 @@
 | 2078        | 朋友                            |   https://www.luogu.com.cn/problem/P2078   | 并查集 |
 | 2089        | 烤鸡                            |   https://www.luogu.com.cn/problem/P2089   | 暴力 |
 | 2241        | 统计方形（数据加强版）                            |   https://www.luogu.com.cn/problem/P2241   | 暴力 |
+| 2392        | kkksc03考前临时抱佛脚                         |   https://www.luogu.com.cn/problem/P2392   | DFS |
 | 2676        | [USACO07DEC]Bookshelf B                            |   https://www.luogu.com.cn/problem/P2676   | 排序 |
 | 2814        | 家谱                            |   https://www.luogu.com.cn/problem/P2814   | 并查集 |
 | 3367        | 【模板】并查集                            |   https://www.luogu.com.cn/problem/P3367   | 并查集  |
