@@ -21,6 +21,7 @@
 | 1328        | 生活大爆炸版石头剪刀布                            |   https://www.luogu.com.cn/problem/P1328   | 模拟 |
 | 1536        | 村村通                            |   https://www.luogu.com.cn/problem/P1536   | 并查集 |
 | 1551        | 亲戚                            |   https://www.luogu.com.cn/problem/P1551   | 并查集 |
+| 1618        | 三连击（升级版）                            |   https://www.luogu.com.cn/problem/P1618   | 暴力 |
 | 1621        | 集合                            |   https://www.luogu.com.cn/problem/P1621   | 并查集 |
 | 1706        | 全排列问题                            |   https://www.luogu.com.cn/problem/P1706   | DFS |
 | 1873        | 砍树                            |   https://www.luogu.com.cn/problem/P1873   | 二分查找 |
