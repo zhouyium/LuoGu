@@ -26,6 +26,7 @@
 | 1873        | 砍树                            |   https://www.luogu.com.cn/problem/P1873   | 二分查找 |
 | 1923        | 【深基9.例4】求第 k 小的数       |   https://www.luogu.com.cn/problem/P1923   | 排序 |
 | 2078        | 朋友                            |   https://www.luogu.com.cn/problem/P2078   | 并查集 |
+| 2089        | 烤鸡                            |   https://www.luogu.com.cn/problem/P2089   | 暴力 |
 | 2241        | 统计方形（数据加强版）                            |   https://www.luogu.com.cn/problem/P2241   | 暴力 |
 | 2676        | [USACO07DEC]Bookshelf B                            |   https://www.luogu.com.cn/problem/P2676   | 排序 |
 | 2814        | 家谱                            |   https://www.luogu.com.cn/problem/P2814   | 并查集 |
