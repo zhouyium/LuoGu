@@ -36,6 +36,7 @@
 | 2676        | [USACO07DEC]Bookshelf B                            |   https://www.luogu.com.cn/problem/P2676   | 排序 |
 | 2814        | 家谱                            |   https://www.luogu.com.cn/problem/P2814   | 并查集 |
 | 3367        | 【模板】并查集                            |   https://www.luogu.com.cn/problem/P3367   | 并查集  |
+| 3392        | 涂国旗                           |   https://www.luogu.com.cn/problem/P3392   | 暴力  |
 | 5143        | 攀爬者                                  |   https://www.luogu.com.cn/problem/P5143    | 排序 |
 | 6832        | [Cnoi2020]子弦                          |   https://www.luogu.com.cn/problem/P6832   | 贪心 |
 | 6833        | [Cnoi2020]雷雨                            |   https://www.luogu.com.cn/problem/P6833   | BFS |
